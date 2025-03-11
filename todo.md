@@ -45,25 +45,26 @@
 - [x] Verify feature support claims
 - [x] Document findings
 
-## [ ] Chiclet Slicer
-- [ ] Find official documentation/blog posts
-- [ ] Verify feature support claims
-- [ ] Document findings
+## [x] Chiclet Slicer
+- [x] Find official documentation/blog posts
+- [x] Verify feature support claims
+- [x] Document findings
 
-## [ ] Counter Calendar
-- [ ] Find official documentation/blog posts
-- [ ] Verify feature support claims
-- [ ] Document findings
+## [x] Counter Calendar
+- [x] Find official documentation/blog posts
+- [x] Verify feature support claims
+- [x] Document findings
 
-## [ ] Custom Calendar
-- [ ] Find official documentation/blog posts
-- [ ] Verify feature support claims
-- [ ] Document findings
+## [x] Custom Calendar
+- [x] Find official documentation/blog posts
+- [x] Verify feature support claims
+- [x] Document findings
 
-## [ ] Custom Calendar by Akvelon
-- [ ] Find official documentation/blog posts
-- [ ] Verify feature support claims
-- [ ] Document findings
+## [x] Custom Calendar by Akvelon
+- [x] Find official documentation/blog posts
+- [x] Verify feature support claims
+- [x] Document findings
+- [x] Note: This is a duplicate of "Custom Calendar" - same visual
 
 ## [ ] Custom Slicer
 - [ ] Find official documentation/blog posts
