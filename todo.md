@@ -66,20 +66,20 @@
 - [x] Document findings
 - [x] Note: This is a duplicate of "Custom Calendar" - same visual
 
-## [ ] Custom Slicer
-- [ ] Find official documentation/blog posts
-- [ ] Verify feature support claims
-- [ ] Document findings
+## [x] Custom Slicer
+- [x] Find official documentation/blog posts
+- [x] Verify feature support claims
+- [x] Document findings
 
-## [ ] Data Slicer
-- [ ] Find official documentation/blog posts
-- [ ] Verify feature support claims
-- [ ] Document findings
+## [x] Data Slicer
+- [x] Find official documentation/blog posts
+- [x] Verify feature support claims
+- [x] Document findings
 
-## [ ] Datepicker by Powerviz
-- [ ] Find official documentation/blog posts
-- [ ] Verify feature support claims
-- [ ] Document findings
+## [x] Datepicker by Powerviz
+- [x] Find official documentation/blog posts
+- [x] Verify feature support claims
+- [x] Document findings
 
 ## [ ] Enlighten Slicer
 - [ ] Find official documentation/blog posts
