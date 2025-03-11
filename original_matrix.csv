@@ -1,0 +1,129 @@
+,Features,Super Filter,Attribute Slicer,Autocomplete Filter,Beyondsoft Calendar,Calendar by Datanau,Calendar by MAQ Software,Calendar by Tallan,Calendar Chart For Power BI,Calendar Pro by OKViz,Chiclet Slicer,Counter Calendar,Custom Calendar,Custom Calendar by Akvelon,Custom Slicer,Data Slicer,Datepicker by Powerviz,Enlighten Slicer,Enlighten World Flag Slicer,Filter By List,Filter by Powerviz,Hierarchy Slicer,Mass Filter,Mass Slicer,Native List Slicer,Native New Slicer,Native Slicer,Play Anis,Power Slicer,Power Slicer 高级切片器,Preselecetd Slicer,Selection Slicer,SharewinfoPowerSlicer,Smart Filter Pro by OKVIZ,Tent Search Slicer,Tile Search Slicer,Tile Search Slicer.1,Timeline Basic,Timeline by Queryon,Timeline Slicer
+0,Alphanumeric filter,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,,,n,n,n,,n,,n,n,,n,n,n,n
+1,Alpha numeric regen,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,y,n,n,n,n,,,,n,n,n,,n,,n,n,,n,n,n,n
+2,Alphanumeric search + Wildcard,y,n,y,n,n,,n,n,n,n,n,n,n,n,n,y,n,n,y,,n,,,,,,,,,,,,,n,,,,,n
+3,Appearance,y,y,y,n,n,n,n,n,y,y,n,n,n,y,y,y,y,n,n,y,y,y,n,y,y,y,n,y,n,y,y,n,y,y,y,n,n,n,n
+4,Apply All button support,y,n,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,Autocomplete in search,y,n,y,,,,,,,n,,,,,,,,,,,n,,,,,,,,,,,,y,n,,,,,n
+6,Bookmark support,y,y,,n,y,y,y,n,y,y,,,y,y,y,y,n,n,y,,y,,n,,,,,,,,,,y,,,,,,
+7,Bulk Paste,y,n,y,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,y,y,n,y,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n
+8,Calculated column using DAn - UI,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+9,Calculation Group,y,y,,n,n,n,n,n,,n,,,,,,,n,n,n,,n,,,,,,,,,,,,,,,,,,
+10,Calendar Appearance Settings,y,n,n,y,y,y,y,n,y,n,n,y,y,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,y,n
+11,Calendar Formatting options,y,n,n,y,n,y,n,y,y,n,n,n,y,n,n,n,n,n,n,n,n,n,n,,,,n,n,y,,n,,n,n,,n,n,y,y
+12,Calendar Heatmap,y,n,n,y,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,,,n,n,n,,n,,n,n,,n,n,n,n
+13,Calendar Modes,y,n,n,n,n,n,n,y,n,n,y,y,y,n,n,n,n,n,n,n,n,n,n,,,,n,n,y,,n,,n,n,,n,n,y,n
+14,Calendar view in canvas,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+15,Card View Filter - showall the values in tiles,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,y,y,n,n,n,y,n,n,n,n,n,n,n,y,n,n,n,n,n,n
+16,Casing,y,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+17,Checklist view,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n
+18,Clear/Apply Buttons + Position/Appearance,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+19,Conditional Formatting,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+20,Content Menu,y,n,,n,n,n,n,n,n,n,,,n,,,y,n,n,n,,n,,,,,,,,,,,,n,n,,,,,n
+21,Date Format,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n
+22,Date Picker on the slider,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n
+23,Days,y,n,n,n,y,y,n,y,y,n,n,y,y,n,n,y,y,n,n,,n,,n,,,,,,n,,n,,,n,,n,n,n,y
+24,Default Man Date,y,n,n,n,n,n,n,n,,n,,,,n,n,y,n,n,n,,n,,,,,,,,,,,,,n,,,,,n
+25,Default Selection in Slider & Calendar,y,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,,,n,n,n,,n,,n,n,,n,n,n,y
+26,Delimiter,y,n,y,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,y,n,n,y,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n
+27,Display Child Count,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+28,Display Measure Value,y,y,,y,y,n,y,y,y,n,,,n,n,n,n,n,y,n,,n,,,,,,,,,,,,,n,,,,,n
+29,Dropdown,y,n,,n,n,n,n,n,n,n,,,n,y,n,n,n,n,n,,n,,,,,,,,,,,,y,n,,,,,n
+30,Dynamic (Measure based) Date Preset,y,n,,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+31,Dynamic & static slider,y,n,,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,,,n,n,n,,n,,n,n,,n,n,n,n
+32,Dynamic Default Selection - Using Boolean Measure,y,n,,n,n,n,n,n,n,n,n,n,n,y,n,y,n,n,y,y,n,n,n,n,n,n,n,n,n,y,n,y,n,n,,n,n,n,n
+33,Dynamic Presets (Date based - e.g.),y,n,n,n,n,n,n,n,n,y,n,n,n,n,n,y,n,n,n,y,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n
+34,Edit Capability,y,n,,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,,,n,n,n,,n,n,n,n,,n,n,n,n
+35,Enclude/Include the selected value,y,y,y,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,y,n,n,y,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+36,Facet Filter (Grid View),y,n,,n,y,n,n,n,n,n,,,n,n,n,n,n,n,n,,n,,,,,,,,,,,,y,n,,,,,n
+37,Field Parameter,y,n,,n,n,n,,n,,n,,,,,n,,y,n,,,n,,,,,,,,,,,,,,,,,,
+38,Fiscal Year,y,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,n,n,n,n,n,n,y
+39,Fined Interval,y,n,,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,,,n,n,n,,n,,n,n,,n,n,n,n
+40,Grid view (Group),y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n
+41,Hide Blanks,y,y,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n
+42,Hierarchy - Aggregations at parent level,n,n,,n,n,n,n,n,n,n,,,n,,n,n,n,n,n,y,n,,,,,,,,,,,,,n,,,,,n
+43,Hierarchy Mode (Tree view),y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,n,n,y,n,y,n,y,n,n,y,n,y,n,n,n,n,n,n
+44,Holiday - Binary measure,y,n,n,n,n,y,n,n,y,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+45,Holiday Appearance Settings,y,n,n,n,n,y,n,n,y,n,n,n,n,n,n,y,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+46,Image Data with base 64,y,n,,n,n,n,n,n,y,y,n,n,n,n,n,n,n,y,n,n,n,n,n,,,,n,n,n,,n,,n,n,,n,n,y,n
+47,Image Support,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,y,n
+48,Immediate/Leaf,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+49,Import/Enport,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n
+50,Invalid Dates,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+51,Invalid Dates Appearance Settings,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+52,ISO Week Number,y,n,,y,n,n,n,n,y,n,,,n,n,n,y,n,n,n,,n,,,,,,,,,,,,,n,,,,,y
+53,Keyboard Accessibility,y,n,,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,,,n,n,n,,n,,n,n,,n,n,n,n
+54,Label/Subtitle,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+55,Leaf Only (on selection on parent),y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n
+56,Leap Year,y,n,,,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,,,,n,n,,n,,,n,,n,n,n,n
+57,Limit Data rows,y,n,,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,,,n,n,n,,n,,n,n,,n,n,n,n
+58,List view,y,y,n,n,n,y,n,n,n,n,n,n,n,y,n,n,n,n,n,y,n,n,n,n,n,y,n,y,n,y,n,n,n,n,n,n,n,n,n
+59,Localize Keywords (Multi-language support),y,n,,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,,,n,n,n,,n,,n,n,,n,n,n,n
+60,Minimize mode/Popup,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n
+61,Modes/Views,y,n,,n,,y,n,y,y,n,,,y,n,y,y,n,n,n,,,,,,,,,,,,,,,,,,,,
+62,Month (whole year calendar),y,n,,y,n,n,n,n,y,n,n,n,y,n,n,n,n,n,n,n,n,n,n,,,,n,n,n,,n,,n,n,,n,n,n,y
+63,Month Range,y,n,,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,,,n,n,n,,n,,n,n,,n,n,n,n
+64,Month Style - Single/Double,y,n,n,n,n,y,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+65,Monthly total,y,n,,n,n,n,n,n,n,n,y,,n,n,n,n,n,n,n,,n,,,,,,,,,,,,,n,,,,,n
+66,Multi Language,y,n,,,,,,,,,,,,n,,,,,,,,,,,,,,,,,,,,,,,,,
+67,Multi Level,y,n,,n,n,n,n,n,y,n,,,y,,n,y,n,n,n,,n,,,,,,,,,,,,n,n,,,,,n
+68,Multi-year,y,n,,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,,,n,n,n,,n,,n,n,,n,n,n,n
+69,Multi-Language support (also RTL),y,n,,n,,,,,,n,,,,,,,,,,,n,,,,,,,,,,,,n,n,,,,,n
+70,Multiple Date Range Selector,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+71,Number Formatting,y,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+72,Numeric Filter and Measure Filter,y,n,,n,n,n,n,n,n,n,,,n,n,n,n,n,n,n,,n,,,,,,,,,,,,,n,,,,,n
+73,Observer Mode - Brick view of applied values,y,y,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,y,n,y,n,y,n,n,n,n
+74,Operator - (AND/OR),y,y,y,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n
+75,Option to show value limitation - man limit can be set,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n
+76,Page as Tooltip,y,n,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+77,Play Anis,y,n,,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,,,y,n,n,,n,n,n,n,,n,n,n,y
+78,Play Anis label option,y,n,,n,n,n,n,n,n,n,,,n,n,n,n,n,n,n,,n,,,,,,,,,,,,n,n,,,,,n
+79,Popup Calendar,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+80,Preset Appearance Settings,y,n,,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+81,Progress Bar,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+82,Quarter options in calendar,y,n,,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,,,n,n,n,,n,,n,n,,n,n,n,y
+83,Quick Mode for Navigation,y,n,,n,n,n,n,n,n,n,,,n,n,n,n,n,n,n,,n,,,,,,,,,,,,,n,,,,,n
+84,Radio view,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n
+85,Range Type,y,n,,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,,,n,n,n,,n,y,n,n,,n,n,n,n
+86,Range/Start-End Selector,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+87,Ranking,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+88,Relative Date,y,n,,n,n,n,n,n,,n,,,n,n,n,n,n,n,n,,n,,,,,,,,,,,,,n,,,,,n
+89,Saved Filter,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,n,n,n,n
+90,Search (with suggestion),y,y,y,n,n,n,n,n,n,n,n,n,n,y,y,n,n,n,n,y,y,y,n,y,y,y,n,n,y,y,y,n,y,y,y,y,n,n,n
+91,Search with regen/wildcard/operator,y,n,y,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,y,y,y,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n
+92,"Selection Style (Range style - square, ellipsis, individual circle)",y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+93,Show Blank as/Add value in empty string,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n
+94,Show Detail,y,n,,,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,,,n,n,n,,n,,n,n,,n,n,n,n
+95,Single Child Display Options,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+96,Single select,y,n,,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,,,n,n,y,,n,,n,n,,n,n,n,y
+97,Single/Multi-select,y,n,y,y,n,n,n,n,n,y,n,n,n,y,n,y,n,n,n,y,y,n,n,y,y,y,n,y,n,y,n,n,y,n,y,n,n,n,n
+98,Slider (Dynamic selection),y,n,,n,n,n,n,n,n,n,,,n,n,n,n,y,n,n,,n,,,,,,,,,,,,,n,,,,,n
+99,Slider Appearance Settings,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+100,Slider for Dates,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n
+101,Slider for Number,y,n,,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,n,n,n,,y,,n,n,n,,n,n,n,n,,n,n,n,n
+102,Slider Scale,y,n,,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,,,n,n,n,,n,,n,n,,n,n,n,n
+103,Sorting,y,n,y,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+104,Sync Slicer,y,n,y,n,n,n,n,n,n,n,n,,n,n,y,y,n,n,y,y,y,n,y,y,y,y,n,,y,y,n,y,y,y,y,,,n,n
+105,Tent Area,y,n,,n,n,n,n,n,n,n,,,n,n,y,n,n,n,y,,n,,,,,,,,,,,,y,n,,,,,n
+106,Tent Slicer (focus),y,n,,n,n,n,n,n,n,n,,,n,n,y,n,n,n,n,,n,,,,,,,,,,,,,,,,,,
+107,Theme/Templates,y,n,y,n,n,n,n,n,y,n,n,n,n,n,n,y,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+108,Time-zone Setting,n,n,,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,,,,n,n,,n,,,n,,n,n,n,n
+109,Today Navigation in Calendar View,y,n,n,n,n,y,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+110,Toggle View Type,y,n,,n,n,,n,n,n,n,,,n,n,n,n,n,n,n,,y,,,,,,,,,,,,n,n,,,,,n
+111,Tooltip,y,n,n,n,n,n,n,n,y,n,n,n,n,n,y,n,n,n,n,y,y,n,n,n,y,n,n,n,n,n,n,n,y,n,n,n,n,n,n
+112,Top N,y,n,,n,n,n,n,y,,n,n,n,n,,n,y,n,n,n,,n,,n,,,,,n,n,,n,,,n,,n,n,n,n
+113,"Total Bar (Month, Week)",y,n,,n,n,n,n,n,,n,,,n,,n,n,n,n,n,,n,,,,,,,,,,,,,n,,,,,n
+114,"Treemap (Lasso, Inclusive/enclusive, Tiling method, No Data)",y,n,,n,n,n,n,n,n,n,,,n,,n,n,n,n,n,,n,,,,,,,,,,,,y,n,,,,,n
+115,UI - Enpand All/ Collapse All,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+116,Values (Numbers/Measures) Display,y,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n
+117,Variance,y,n,,n,n,n,y,y,y,n,,,n,,n,n,n,n,n,,n,,,,,,,,,,,,,n,,,,,n
+118,Variance in calendar,y,n,,y,y,n,n,n,y,n,y,n,y,n,n,n,n,n,n,n,n,n,n,,,,n,n,y,,n,n,n,n,,n,n,n,n
+119,Week,y,n,,y,y,y,n,n,y,n,n,y,y,n,n,n,n,n,n,n,n,n,n,,,,n,n,n,,n,,n,n,,n,n,n,y
+120,Week modes,y,n,,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,,,n,n,n,,n,,n,n,,n,n,n,n
+121,Week Start Day,y,n,n,y,n,y,y,n,y,n,n,y,y,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y
+122,Weekend - Option to choose off days,y,n,n,n,n,y,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+123,Weekend Appearance Settings,y,n,n,n,n,y,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+124,Weekly total,y,n,,n,n,n,n,y,,n,y,,n,,n,n,n,n,n,,n,,,,,,,,,,,,,n,,,,,n
+125,Word Splitting,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+126,Year,y,n,,y,n,y,n,y,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,,,n,n,n,,n,,n,n,,n,y,n,y
+127,Zoom,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n
