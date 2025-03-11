@@ -40,10 +40,10 @@
 - [x] Verify feature support claims
 - [x] Document findings
 
-## [ ] Calendar Pro by OKViz
-- [ ] Find official documentation/blog posts
-- [ ] Verify feature support claims
-- [ ] Document findings
+## [x] Calendar Pro by OKViz
+- [x] Find official documentation/blog posts
+- [x] Verify feature support claims
+- [x] Document findings
 
 ## [ ] Chiclet Slicer
 - [ ] Find official documentation/blog posts
